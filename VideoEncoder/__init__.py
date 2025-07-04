@@ -61,6 +61,8 @@ PROGRESS = """
 • {0} of {1}
 • Speed: {2}
 • ETA: {3}
+
+<i>🧬 By @MLTBRM </>
 """
 
 video_mimetype = [
